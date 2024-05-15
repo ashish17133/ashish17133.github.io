@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <embed src="GHANASHYAM_DHAKAL_cv.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="HANASHYAM_DHAKAL_cv.pdf" type="application/pdf" width="100%" height="600px" />
 
 </body>
 </html>
